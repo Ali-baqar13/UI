@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.body-color{
+  background-color: #ececec;
+  /* background-image: url("https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png"); */
+  margin: 1% 2% 2% 2%;
+  padding:5% 5% 5% 5%;
+  border-radius: 20px;
+  height:95%;
+  width:95vw
+}
+.clicked{
+  background-color: black;
+  color: white;
+  border-radius:20px;
+  width:100px;
+  padding:2px 10px 2px 6px;
+  text-align: center;
+}
+.unclicked{
+  
+  background-color: white;
+  color:black;
+
+}
+.card{
+  border:2px solid white;
+  padding:1%;
+  
+  background-color:  #f5f5f5;
+  /* #e8e8e8  #fafafa*/
+
+  /* Gainsboro: #dcdcdc
+Whitesmoke: #f5f5f5
+A custom lighter gray: #e0e0e0 */
+  
+ 
+  
+}
+
+
+
+
+
+
+
+
+
